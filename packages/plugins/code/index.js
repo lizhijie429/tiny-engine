@@ -13,7 +13,7 @@
 import component from './src/Main.vue'
 
 export default {
-  id: 'PageController',
+  id: 'PageCode',
   title: '文件内容',
   icon: 'plugin-icon-code',
   align: 'top',
