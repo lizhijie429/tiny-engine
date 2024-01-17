@@ -28,6 +28,7 @@ import Setting from '@opentiny/tiny-engine-toolbar-setting'
 import Materials from '@opentiny/tiny-engine-plugin-materials'
 import Data from '@opentiny/tiny-engine-plugin-data'
 import Script from '@opentiny/tiny-engine-plugin-script'
+import Code from '@opentiny/tiny-engine-plugin-code'
 import Tree from '@opentiny/tiny-engine-plugin-tree'
 import Help from '@opentiny/tiny-engine-plugin-help'
 import Schema from '@opentiny/tiny-engine-plugin-schema'
@@ -45,7 +46,7 @@ import Styles from '@opentiny/tiny-engine-setting-styles'
 import '@opentiny/tiny-engine-theme'
 
 const addons = {
-  plugins: [Materials, Tree, Page, Block, Datasource, Bridge, I18n, Script, Data, Schema, Help, Robot],
+  plugins: [Materials, Tree, Page, Block, Datasource, Bridge, I18n, Script, Data, Code, Schema, Help, Robot],
   toolbars: [
     Logo,
     Breadcrumb,

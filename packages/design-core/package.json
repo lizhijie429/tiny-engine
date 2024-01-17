@@ -50,6 +50,7 @@
     "@opentiny/tiny-engine-plugin-robot": "workspace:*",
     "@opentiny/tiny-engine-plugin-schema": "workspace:*",
     "@opentiny/tiny-engine-plugin-script": "workspace:*",
+    "@opentiny/tiny-engine-plugin-code": "workspace:*",
     "@opentiny/tiny-engine-plugin-tree": "workspace:*",
     "@opentiny/tiny-engine-plugin-tutorial": "workspace:*",
     "@opentiny/tiny-engine-setting-design": "workspace:*",
