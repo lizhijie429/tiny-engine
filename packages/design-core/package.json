@@ -72,6 +72,7 @@
     "@opentiny/tiny-engine-toolbar-logout": "workspace:*",
     "@opentiny/tiny-engine-toolbar-media": "workspace:*",
     "@opentiny/tiny-engine-toolbar-preview": "workspace:*",
+    "@opentiny/tiny-engine-toolbar-codesandbox": "workspace:*",
     "@opentiny/tiny-engine-toolbar-redoundo": "workspace:*",
     "@opentiny/tiny-engine-toolbar-refresh": "workspace:*",
     "@opentiny/tiny-engine-toolbar-save": "workspace:*",
